@@ -1,4 +1,4 @@
-package com.example.fioriwebviewtest;
+package com.openpeak.sapfiori;
 
 import org.apache.http.Header;
 import org.apache.http.HeaderElement;
